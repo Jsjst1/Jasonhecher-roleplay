@@ -95,4 +95,4 @@ extra:
     provider: google
     property: !ENV GOOGLE_ANALYTICS_KEY
   social:
-      link: https://discord.gg/7uVYYucsXt
+      link: https://discord.com/invite/7uVYYucsXt
